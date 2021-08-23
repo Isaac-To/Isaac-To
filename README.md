@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hello World!
 
-<!--
-**chisaku-dev/chisaku-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### This is the account of Isaac To, here on Github. 
 
-Here are some ideas to get you started:
+Here's the place where I post some code that I write on my own.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For the most part, I'm just a high school senior who likes technology quite a bit be it hardware or software (they're equally important). I believe that computers are the first step in to discovering solutions to the problems one may have on a whim or a problem that affects thousands world-wide. I would like to contribute to helping solve these questions. While I'm not particularly competitive, I try to make up with creative and fun work that I hope people will enjoy.
+
+### Some things about me:
+
+#### Some languages that I know are
+
+- C
+- CPP
+- Lua
+- Java (learning)
+- Python
+- HTML
+- PHP
+- CSS
+- SQL
+
+### I have some experience in these frameworks:
+
+- Bootstrap
+- Django
+- Flask
+
+### Tools that I use
+
+- VS Code (For Python, SQL, PHP, HTML/CSS, Lua)
+- VS2019 Community (For C, CPP)
