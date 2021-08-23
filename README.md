@@ -8,7 +8,7 @@ For the most part, I'm just a high school senior who likes technology quite a bi
 
 ### Some things about me:
 
-#### Some languages that I know are
+#### Some programming languages that I know are
 
 - C
 - CPP
@@ -26,7 +26,15 @@ For the most part, I'm just a high school senior who likes technology quite a bi
 - Django
 - Flask
 
+### OS Preference
+
+- Servers: GNU/Linux: Ubuntu
+  - I'm fluent in using the Linux Terminal
+- HomePC: Windows 11/10
+
 ### Tools that I use
 
 - VS Code (For Python, SQL, PHP, HTML/CSS, Lua)
 - VS2019 Community (For C, CPP)
+- Docker
+- XAMPP
