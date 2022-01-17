@@ -15,12 +15,18 @@ For the most part, I'm just a high school senior who likes technology quite a bi
 - C
 - CPP
 - Lua
-- Java (learning)
+- Java
 - Python
 - HTML
 - PHP
 - CSS
 - SQL
+
+#### Primary languages
+
+- C
+- Python
+- Java
 
 ### I have some experience in these frameworks:
 
