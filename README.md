@@ -20,7 +20,7 @@ For the most part, I'm a UCSC freshman who likes technology quite a bit be it ha
 
 #### Primary languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-To)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-To&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I have some experience in these frameworks:
 
