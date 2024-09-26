@@ -1,16 +1,13 @@
-## Hi there 👋
+## Seeker of knowledge, tryer of new technologies 🔮
+👋 Hey, what's up. Welcome to my Github Profile!
 
-<!--
-**Isaac-To/Isaac-To** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here, I publish code that I work on for personal projects as well as mini-projects that I use as learning opportunities. 
 
-Here are some ideas to get you started:
+Some things that I am interested in are:
+* 🧠 Machine Learning
+* 💻 Computer Architecture
+* 💹 Statistical Analysis
+* 🧰 Messing with Linux: See my [dotfiles](https://github.com/dotfiles) for more
+* and many other things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also, I highly encourage you to check out my blog at [sfisaact.com](https://sfisaact.com/) in which I document a lot of the things that I am working on as of late or just things that I learn in general.
