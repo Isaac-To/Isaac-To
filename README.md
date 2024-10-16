@@ -1,4 +1,4 @@
-## Seeker of knowledge, tryer of new technologies 🔮
+## Seeker of knowledge, trier of new technologies 🔮
 👋 Hey, what's up. Welcome to my Github Profile!
 
 Here, I publish code that I work on for personal projects as well as mini-projects that I use as learning opportunities. 
